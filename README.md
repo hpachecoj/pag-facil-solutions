@@ -1,4 +1,4 @@
-![Logo Secure Auth API](https://github.com/hpachecoj/pag-facil-solutions/blob/main/Frontend/logo-pag-facil-solutions.png)
+![Logo Secure Auth API](https://github.com/hpachecoj/pag-facil-solutions/blob/main/Frontend/logo-pag-facil-solutions-v2.png)
 
 # PagFácil Solutions
 É uma plataforma de crédito para pessoas físicas inadimplentes. Utiliza-se tecnologia Blockchain e um tipo de crédito 
